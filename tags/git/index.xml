@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git on Bank of MH</title>
-    <link>https://www.meihui.site/tags/git/</link>
+    <link>https://shixiao2019.github.io/tags/git/</link>
     <description>Recent content in Git on Bank of MH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>&amp;copy; 2019. All rights reserved.</copyright>
     <lastBuildDate>Wed, 27 Feb 2019 13:56:23 +0800</lastBuildDate>
     
-	<atom:link href="https://www.meihui.site/tags/git/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shixiao2019.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>UseGit</title>
-      <link>https://www.meihui.site/post/usegit/</link>
+      <link>https://shixiao2019.github.io/post/usegit/</link>
       <pubDate>Wed, 27 Feb 2019 13:56:23 +0800</pubDate>
       
-      <guid>https://www.meihui.site/post/usegit/</guid>
+      <guid>https://shixiao2019.github.io/post/usegit/</guid>
       <description>&lt;h1 id=&#34;git命令&#34;&gt;Git命令&lt;/h1&gt;
 
 &lt;p&gt;(&amp;ldquo;&amp;rsquo;

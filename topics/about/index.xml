@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Bank of MH</title>
-    <link>https://www.meihui.site/topics/about/</link>
+    <link>https://shixiao2019.github.io/topics/about/</link>
     <description>Recent content in About on Bank of MH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>&amp;copy; 2019. All rights reserved.</copyright>
     <lastBuildDate>Wed, 27 Feb 2019 12:39:28 +0800</lastBuildDate>
     
-	<atom:link href="https://www.meihui.site/topics/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shixiao2019.github.io/topics/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://www.meihui.site/about/</link>
+      <link>https://shixiao2019.github.io/about/</link>
       <pubDate>Wed, 27 Feb 2019 12:39:28 +0800</pubDate>
       
-      <guid>https://www.meihui.site/about/</guid>
+      <guid>https://shixiao2019.github.io/about/</guid>
       <description></description>
     </item>
     
