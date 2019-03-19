@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Bank of MH</title>
+    <link>https://www.meihui.site/post/</link>
+    <description>Recent content in Posts on Bank of MH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; 2019. All rights reserved.</copyright>
+    <lastBuildDate>Wed, 27 Feb 2019 13:56:23 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.meihui.site/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UseGit</title>
+      <link>https://www.meihui.site/post/usegit/</link>
+      <pubDate>Wed, 27 Feb 2019 13:56:23 +0800</pubDate>
+      
+      <guid>https://www.meihui.site/post/usegit/</guid>
+      <description>&lt;h1 id=&#34;git命令&#34;&gt;Git命令&lt;/h1&gt;
+
+&lt;p&gt;(&amp;ldquo;&amp;rsquo;
+    git clone &lt;a href=&#34;http://10.68.7.177/tzd2/gjjs-docs.git&#34;&gt;http://10.68.7.177/tzd2/gjjs-docs.git&lt;/a&gt;
+    cd gjjs-docs
+    git checkout -b develop origin/develop
+    touch README.md
+    git add README.md
+    git commit -m &amp;ldquo;add README&amp;rdquo;
+    git push -u origin master
+&amp;ldquo;&amp;lsquo;)&lt;/p&gt;
+
+&lt;h1 id=&#34;learn-markdown&#34;&gt;Learn Markdown&lt;/h1&gt;
+
+&lt;h2 id=&#34;markdown-基本语法&#34;&gt;Markdown 基本语法&lt;/h2&gt;</description>
+    </item>
+    
+    <item>
+      <title>test My First Post</title>
+      <link>https://www.meihui.site/post/my-first-post/</link>
+      <pubDate>Tue, 26 Feb 2019 14:56:49 +0800</pubDate>
+      
+      <guid>https://www.meihui.site/post/my-first-post/</guid>
+      <description>Head1 Head2 Head3 放一些内容 test my first post</description>
+    </item>
+    
+    <item>
+      <title>煎馒头片</title>
+      <link>https://www.meihui.site/post/201608%E7%85%8E%E9%A6%92%E5%A4%B4%E7%89%87/</link>
+      <pubDate>Fri, 26 Aug 2016 14:56:49 +0800</pubDate>
+      
+      <guid>https://www.meihui.site/post/201608%E7%85%8E%E9%A6%92%E5%A4%B4%E7%89%87/</guid>
+      <description>煎馒头片 营养快捷，早餐之选 材料：两个鸡蛋，一个馒头 1.打散鸡蛋，加入少量盐；馒头切片
+2.热油冒烟后，将馒头片两面蘸满鸡蛋液
+3.放入锅中，煎至两面金黄出锅
+4.多余的鸡蛋可以炒出来哦</description>
+    </item>
+    
+    <item>
+      <title>工具大集合</title>
+      <link>https://www.meihui.site/post/201608%E8%8A%B1%E8%8D%89%E5%B7%A5%E5%85%B7%E5%A4%A7%E9%9B%86%E5%90%88/</link>
+      <pubDate>Thu, 25 Aug 2016 14:56:49 +0800</pubDate>
+      
+      <guid>https://www.meihui.site/post/201608%E8%8A%B1%E8%8D%89%E5%B7%A5%E5%85%B7%E5%A4%A7%E9%9B%86%E5%90%88/</guid>
+      <description> 工具大集合 家里放花花草草主要为了培养情操，当然顺带精华空气，让它们吸甲醛。哈哈哈哈。首先要先介绍我的工具。  左一：蓝色这个，浇水
+ 左二：粉色这个，喷水
+ 中间：小耙子，小铲子是松土刨土用；小毛刷扫灰尘；小镊子种多肉植物；小剪子剪掉枯枝烂叶，貌似有点小
+ 右三：绿色的，铲土用
+ 右后：白色的，看不清，给多肉浇水用
+ 右前：红色，吹掉灰尘
+  </description>
+    </item>
+    
+    <item>
+      <title>胖胖和瘦瘦</title>
+      <link>https://www.meihui.site/post/201608%E8%83%96%E8%83%96%E5%92%8C%E7%98%A6%E7%98%A6/</link>
+      <pubDate>Thu, 25 Aug 2016 14:56:49 +0800</pubDate>
+      
+      <guid>https://www.meihui.site/post/201608%E8%83%96%E8%83%96%E5%92%8C%E7%98%A6%E7%98%A6/</guid>
+      <description>胖胖和瘦瘦 逛街买了两只可爱的小企鹅，捏吧捏吧很有意思，一个叫胖胖，一个叫瘦瘦哈哈哈</description>
+    </item>
+    
+    <item>
+      <title>筷子的礼仪</title>
+      <link>https://www.meihui.site/post/201608%E7%AD%B7%E5%AD%90%E7%9A%84%E7%A4%BC%E4%BB%AA/</link>
+      <pubDate>Sun, 21 Aug 2016 14:56:49 +0800</pubDate>
+      
+      <guid>https://www.meihui.site/post/201608%E7%AD%B7%E5%AD%90%E7%9A%84%E7%A4%BC%E4%BB%AA/</guid>
+      <description> 筷子的礼仪 客人入座后，切不可急急地动筷。只有等主人先握筷，向大家比划一下，以筷相邀宾客说“诸位不用客气，大家请！”之后，客人方可动筷。若遇重大的宴席，须等上首的长辈先动筷，并象征性地夹上一筷后，其它人才能动筷。
+餐毕，先毕的客人要用筷向全桌未毕者示意性地指 餐毕落筷，大家才能将筷儿从碗口取下，放于桌上，再离座话别。
+无论节日宴还是喜宴，待客宴，“碗口筷”是犯大忌的。“碗口筷”，即把筷子平放在碗口上。这种“人不陪席筷陪席“的礼节，如果运用的时机不当，说不定会闹得主客失和。主人在宴请亲朋好友若一开席就放了“碗口筷”，那就等于下了逐客令。因为那是民间祭祀游魂野鬼时的仪式，用于待客，就是在奚落客人来讨饭吃了。如果客人在餐毕离坐后没有把筷子从碗口取下，放于桌上，则是表示还没有吃饱，对主人是大不敬的。但是，最忌“碗口筷”的，还要数海上的渔民，若在船上吃饭，饭毕把筷子平放在碗口上，那就意味着“桅杆横倒船要翻”
+“长短筷”也是不行的。“长短筷”指的是所用的筷子一长一短。作为主人，在摆筷子的时候，千万注意，筷子不能一长一短。民间认为这是在诅咒客人夫妇或他的父母不能“双双同到老”，而是“一长一短”。
+“杂色筷”也是不行的，既两根筷子的颜色，式样，用料不一样，杂色筷意味着家庭不和睦，经常闹别扭。主客双方都是大忌。
+“截筷”和“泪筷”也为人所不屑。“截筷”有两种，一种是好客的主人把菜夹给客人时，客人用筷在空中把主人夹过来的菜接走；一种是俩人同时出筷，同伸向一个菜盘的同一块菜肴。“泪筷”即夹带汤的菜，一路滴滴答答地掉个不停。
+“插筷”是最犯忌的，即在用饭前把一双筷子直插于饭中或者菜中。在江南地区，只有给死人上供的时候，才有这样的插法。
+筷礼八忌
+ 一忌迷筷：举筷不定，东戳西夹。 二忌翻筷：以筷翻挖，菜底拣食。 三忌刺筷：夹菜不住，改之为刺。 四忌涮筷：以筷搅汤，左右捞物。 五忌舐筷：放筷于口，吮吸舐舔。 六忌剔筷：以筷作签，入嘴剔牙。 七忌响筷：以筷敲盆，叮当作响。 八忌插筷：筷如双柱，直插碗中。  </description>
+    </item>
+    
+    <item>
+      <title>家庭网站</title>
+      <link>https://www.meihui.site/post/201608%E5%AE%B6%E5%BA%AD%E7%BD%91%E7%AB%99/</link>
+      <pubDate>Sat, 20 Aug 2016 14:56:49 +0800</pubDate>
+      
+      <guid>https://www.meihui.site/post/201608%E5%AE%B6%E5%BA%AD%E7%BD%91%E7%AB%99/</guid>
+      <description> 家庭网站 孩子长大后离开家乡，于父母天各一方，父母很希望多了解孩子的信息，孩子也十分牵挂父母。建一个网站，家庭内部使用，交流感情。
+1. 各成员的独立空间 2. 方便分享成员的事情 3. 定制化网站，私人性强 4. 可对外开放，也可不不开放  </description>
+    </item>
+    
+    <item>
+      <title>笔记本电脑给手机共享wifi热点</title>
+      <link>https://www.meihui.site/post/201608%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E7%BB%99%E6%89%8B%E6%9C%BA%E5%85%B1%E4%BA%ABwifi%E7%83%AD%E7%82%B9/</link>
+      <pubDate>Thu, 27 Feb 2014 13:56:23 +0800</pubDate>
+      
+      <guid>https://www.meihui.site/post/201608%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E7%BB%99%E6%89%8B%E6%9C%BA%E5%85%B1%E4%BA%ABwifi%E7%83%AD%E7%82%B9/</guid>
+      <description>适用范围：没有wifi，仅有连接网线上网的手提电脑。使用以下步骤配置后，手机、pad等可以使用笔记本共享的wifi上网。
+ 打开笔记本的无线网络开关
+ 以管理员身份打开“命令提示符”
+ 依次输入下面2行命令
+netsh wlan set hostednetwork mode=allow ssid=T410 key=1234567899 netsh wlan start hostednetwork 说明： ssid=T410 表示无线的名称为T410，key=1234567899表示无线密码为1234567899  打开网络连接能看到一个新增的无线网络连接
+ 在本地连接上右键，然后点属性，将本地连接共享给刚才创建的 “无线网络连接 2”
+ 完成了所有配置。每次电脑关机、开机后，重复步骤1、2，然后输入一行命令：netsh wlan start hostednetwork
+  （说明：可以将此命令保存成bat格式的文件，需要时双击执行或者设置成开机自动执行，见下图）</description>
+    </item>
+    
+  </channel>
+</rss>

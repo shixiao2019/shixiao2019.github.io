@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on Bank of MH</title>
+    <link>https://www.meihui.site/tags/git/</link>
+    <description>Recent content in Git on Bank of MH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; 2019. All rights reserved.</copyright>
+    <lastBuildDate>Wed, 27 Feb 2019 13:56:23 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.meihui.site/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UseGit</title>
+      <link>https://www.meihui.site/post/usegit/</link>
+      <pubDate>Wed, 27 Feb 2019 13:56:23 +0800</pubDate>
+      
+      <guid>https://www.meihui.site/post/usegit/</guid>
+      <description>&lt;h1 id=&#34;git命令&#34;&gt;Git命令&lt;/h1&gt;
+
+&lt;p&gt;(&amp;ldquo;&amp;rsquo;
+    git clone &lt;a href=&#34;http://10.68.7.177/tzd2/gjjs-docs.git&#34;&gt;http://10.68.7.177/tzd2/gjjs-docs.git&lt;/a&gt;
+    cd gjjs-docs
+    git checkout -b develop origin/develop
+    touch README.md
+    git add README.md
+    git commit -m &amp;ldquo;add README&amp;rdquo;
+    git push -u origin master
+&amp;ldquo;&amp;lsquo;)&lt;/p&gt;
+
+&lt;h1 id=&#34;learn-markdown&#34;&gt;Learn Markdown&lt;/h1&gt;
+
+&lt;h2 id=&#34;markdown-基本语法&#34;&gt;Markdown 基本语法&lt;/h2&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

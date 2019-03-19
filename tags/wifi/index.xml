@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wifi on Bank of MH</title>
+    <link>https://www.meihui.site/tags/wifi/</link>
+    <description>Recent content in Wifi on Bank of MH</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>&amp;copy; 2019. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 27 Feb 2014 13:56:23 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.meihui.site/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>笔记本电脑给手机共享wifi热点</title>
+      <link>https://www.meihui.site/post/201608%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E7%BB%99%E6%89%8B%E6%9C%BA%E5%85%B1%E4%BA%ABwifi%E7%83%AD%E7%82%B9/</link>
+      <pubDate>Thu, 27 Feb 2014 13:56:23 +0800</pubDate>
+      
+      <guid>https://www.meihui.site/post/201608%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E7%BB%99%E6%89%8B%E6%9C%BA%E5%85%B1%E4%BA%ABwifi%E7%83%AD%E7%82%B9/</guid>
+      <description>适用范围：没有wifi，仅有连接网线上网的手提电脑。使用以下步骤配置后，手机、pad等可以使用笔记本共享的wifi上网。
+ 打开笔记本的无线网络开关
+ 以管理员身份打开“命令提示符”
+ 依次输入下面2行命令
+netsh wlan set hostednetwork mode=allow ssid=T410 key=1234567899 netsh wlan start hostednetwork 说明： ssid=T410 表示无线的名称为T410，key=1234567899表示无线密码为1234567899  打开网络连接能看到一个新增的无线网络连接
+ 在本地连接上右键，然后点属性，将本地连接共享给刚才创建的 “无线网络连接 2”
+ 完成了所有配置。每次电脑关机、开机后，重复步骤1、2，然后输入一行命令：netsh wlan start hostednetwork
+  （说明：可以将此命令保存成bat格式的文件，需要时双击执行或者设置成开机自动执行，见下图）</description>
+    </item>
+    
+  </channel>
+</rss>
